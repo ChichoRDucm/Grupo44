@@ -1,2 +1,2 @@
 #Resumen de la practica
-Habituarnos <adios desde local>trabajo con Git
+Habituarnos al <hola desde remoto> trabajo con Git
