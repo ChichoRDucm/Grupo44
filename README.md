@@ -1,2 +1,2 @@
 #Resumen de la practica
-Habituarnos al ipñjlkh<corrupto>gghszfdrabajo con Git
+Habituarnos al ciclo de trabajo con Git
